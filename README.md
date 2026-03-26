@@ -1,2 +1,5 @@
 # palvelinten-hallinta
-Palvelinten hallinta kurssi
+Tällä kurssilla opetellaan palvelinten hallintaa wow
+
+## toinen otsikko
+onpa hieno toinen otsikko
