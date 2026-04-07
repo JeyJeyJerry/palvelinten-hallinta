@@ -1,2 +1,0 @@
-# otsikko
-ensimmäinen markdown tiedosto
